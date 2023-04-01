@@ -1,6 +1,7 @@
+<img style="display: block; margin-left: auto; margin-right: auto;  width: 100%;" alt="codeing" src="https://media.licdn.com/dms/image/D5616AQFSNas1IrQPRg/profile-displaybackgroundimage-shrink_200_800/0/1678095479604?e=2147483647&v=beta&t=yE01NknR8bPR9pwqeIgZ2zJwa_B7bTRsQ90F7iaP9g0">
 <h1 align="center">Hi 👋, I'm Prem Kumar Badri</h1>
 <h3 align="center">A passionate Software Engineer</h3>
-<img align="center" alt="codeing" width="400" src="https://media.licdn.com/dms/image/D5616AQFSNas1IrQPRg/profile-displaybackgroundimage-shrink_200_800/0/1678095479604?e=2147483647&v=beta&t=yE01NknR8bPR9pwqeIgZ2zJwa_B7bTRsQ90F7iaP9g0">
+
 - 🔭 I’m currently working on **Dynamic File Exporter**
 
 - 🌱 I’m currently learning **Data Engineer**
