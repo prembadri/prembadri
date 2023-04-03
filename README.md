@@ -1,4 +1,4 @@
-[![Prem Kumar Badri's GitHub Banner]('./images/Prem_Kumar_Badri.gif')](https://prembadri.github.io/presonal/)
+[![Prem Kumar Badri's GitHub Banner](./images/Prem_Kumar_Badri.gif)](https://prembadri.github.io/presonal/)
 
 <h3 align="center">A passionate Software Engineer</h3>
 
