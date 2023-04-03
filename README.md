@@ -1,5 +1,5 @@
-[![Prem Kumar Badri's GitHub Banner](./images/Banner.gif)](https://prembadri.github.io/presonal/)
-<h1 align="center">Hi 👋, I'm Prem Kumar Badri</h1>
+[![Prem Kumar Badri's GitHub Banner]('./images/Prem_Kumar_Badri.gif')](https://prembadri.github.io/presonal/)
+
 <h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **Dynamic File Exporter**
