@@ -13,7 +13,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prem-kumar-badri-18320211a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prem-kumar-badri-18320211a" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bpk617" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bpk617" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/bpk617" target="blank"><img align="center" src="https://hrcdn.net/fcore/assets/work/header/hackerrank_logo-21e2867566.svg" alt="bpk617" height="30" width="40" /></a>
+  <a href="https://g.dev/premkumarbadri" target="blank"><img align="center" src="https://www.gstatic.com/devrel-devsite/prod/v8a94f3ea7c065620b95cec6018f1d2c2869422b6a2925fa3ba11417ee489de75/developers/images/favicon.png" alt="bpk617" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
