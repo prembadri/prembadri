@@ -27,17 +27,29 @@
 <a href="https://github.com/prembadri/SUID">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=SUID&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
 <a href="https://github.com/prembadri/TimeSheet">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=TimeSheet&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<br>
 <a href="https://github.com/prembadri/Csharp-Presentations">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=Csharp-Presentations&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <br>
 
+## 📌 Notes & Help Repositories
+
+<br>
+<a href="https://github.com/prembadri/Python-Notes">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=Python-Notes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/prembadri/Helper-Scripts">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=Helper-Scripts&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<a href="https://github.com/prembadri/Azure-Data-Fundamentals-DP-900">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=Azure-Data-Fundamentals-DP-900&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+<br>
+<br>
 
 ## &#x1f4c8; GitHub Stats
 
