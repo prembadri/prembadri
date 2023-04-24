@@ -45,8 +45,8 @@
 <a href="https://github.com/prembadri/Python-Notes">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=Python-Notes&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-<a href="https://github.com/prembadri/Helper-Scripts">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=Helper-Scripts&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/prembadri/FreeForCode">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=FreeForCode&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <a href="https://github.com/prembadri/Azure-Data-Fundamentals-DP-900">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=prembadri&repo=Azure-Data-Fundamentals-DP-900&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
